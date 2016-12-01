@@ -1,0 +1,7 @@
+filterUI
+mongoFilter.filterSet
+mongoFilter.properties
+mongoFilter.properties.operator
+mongoFilter.properties.option
+mongoFilter.singleFilter
+test
